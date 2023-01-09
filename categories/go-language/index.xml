@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go Language on 第一個網站測試</title>
+    <link>https://nicoleyang22.github.io/categories/go-language/</link>
+    <description>Recent content in Go Language on 第一個網站測試</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 04 Jan 2023 11:42:47 +0800</lastBuildDate><atom:link href="https://nicoleyang22.github.io/categories/go-language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>要怎麼學英文</title>
+      <link>https://nicoleyang22.github.io/blog/test/</link>
+      <pubDate>Wed, 04 Jan 2023 11:42:47 +0800</pubDate>
+      
+      <guid>https://nicoleyang22.github.io/blog/test/</guid>
+      <description>Dear Michael &amp;amp; Hilary :
+Sorry for interrupting, This is Nicole from Taiwan 🇹🇼 !</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://nicoleyang22.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://nicoleyang22.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
